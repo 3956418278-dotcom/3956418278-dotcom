@@ -12,7 +12,7 @@ Building **AI agent infrastructure**, **Model Context Protocol (MCP) tooling**, 
 | [**context-monitor**](https://github.com/3956418278-dotcom/context-monitor) | Zero-dependency LLM context occupancy, prompt cache hit-rate, compaction/cache-bust detection & subagent token telemetry sidecar | `Node.js` `LLM Observability` `Telemetry` |
 | [**Contextkeeper**](https://github.com/3956418278-dotcom/Contextkeeper) | Local-first browsing memory agent with multi-agent summarization, grounded citation recall, browser extension & Obsidian export | `Python` `SQLite` `Multi-Agent` `Extension` |
 | [**lorenz-project**](https://github.com/3956418278-dotcom/lorenz-project) | Lorenz-63 sinusoidal forcing & phase-Fourier linear/nonlinear response workflow with MPI/Slurm pipelines and finite-seed Student-t tests | `Python` `MPI` `Slurm` `Scientific Computing` |
-| [**epet**](https://github.com/3956418278-dotcom/epet) | Adaptive Desktop Companion — Electron & Live2D Cubism body runtime with deterministic state contracts and runtime verification | `TypeScript` `Electron` `Live2D` |
+| [**gemini-pet**](https://github.com/3956418278-dotcom/gemini-pet) | Lightweight Windows desktop companion with multi-pose skins, edge-peeking physics & collapsible ephemeral Gemini chat bubble | `Rust` `Tauri 2` `Win32` |
 | [**Pokemon**](https://github.com/3956418278-dotcom/Pokemon) | Hierarchical AI agent for Kaggle Pokémon TCG AI Battle Challenge with structured card/board representation and sequential decision making | `Python` `RL` `Game AI` |
 
 ---
@@ -21,7 +21,7 @@ Building **AI agent infrastructure**, **Model Context Protocol (MCP) tooling**, 
 
 - **Agent Tooling & Protocol Bridges** — Stdio/HTTP MCP servers, real-time operational transformation (OT) document syncing, prompt-cache & context-window observability, and closed-loop verification harnesses.
 - **Scientific Computing & Decision Systems** — Nonlinear dynamical systems, numerical forcing/response statistics across MPI/Slurm clusters, and structured game-state representation learning.
-- **Local-First & Interactive Desktop Runtimes** — Privacy-first SQLite memory agents, browser extensions, and Electron / Live2D / Tauri desktop interfaces.
+- **Local-First & Interactive Desktop Runtimes** — Privacy-first SQLite memory agents, browser extensions, and Rust / Tauri / Win32 and Electron desktop interfaces.
 
 ---
 
